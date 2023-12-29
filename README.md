@@ -1,2 +1,8 @@
 # sliders
-Bootstrap carousels and sliders
+### Bootstrap carousels and sliders
+
+Слайдеры для текстового контента.
+
+### Слайдер для постов с аватарами 
+
+### Слайдер для постов с обложками статей
